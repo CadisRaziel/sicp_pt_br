@@ -1,4 +1,4 @@
-#Dedicatória
+# Dedicatória
 
 O livro é dedicado, em respeito e admiração, ao espírito que vive no computador.
 

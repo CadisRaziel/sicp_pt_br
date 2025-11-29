@@ -1,0 +1,33 @@
+# Agradecimentos
+
+Gostaríamos de agradecer às muitas pessoas que nos ajudaram a desenvolver este livro e este currículo.
+
+Nossa disciplina é uma clara descendente intelectual de "6.231", uma maravilhosa disciplina sobre linguística de programação e $\lambda$-cálculo ensinada no MIT no final dos anos 1960 por Jack Wozencraft e Arthur Evans, Jr.
+
+Temos uma grande dívida com Robert Fano, que reorganizou o currículo introdutório de engenharia elétrica e ciência da computação do MIT para enfatizar os princípios do projeto de engenharia. Ele nos liderou no início deste empreendimento e escreveu o primeiro conjunto de notas de disciplina a partir do qual este livro evoluiu.
+
+Muito do estilo e da estética da programação que tentamos ensinar foram desenvolvidos em conjunto com Guy Lewis Steele Jr., que colaborou com Gerald Jay Sussman no desenvolvimento inicial da linguagem Scheme. Além disso, David Turner, Peter Henderson, Dan Friedman, David Wise e Will Clinger nos ensinaram muitas das técnicas da comunidade de programação funcional que aparecem neste livro.
+
+Joel Moses nos ensinou sobre a estruturação de sistemas grandes. Sua experiência com o sistema Macsyma para computação simbólica forneceu a percepção de que se deve evitar as complexidades de controle e se concentrar na organização dos dados para refletir a estrutura real do mundo que está sendo modelado.
+
+Marvin Minsky e Seymour Papert formaram muitas de nossas atitudes sobre a programação e seu lugar em nossas vidas intelectuais. A eles devemos a compreensão de que a computação fornece um meio de expressão para explorar ideias que de outra forma seriam muito complexas para serem tratadas com precisão. Eles enfatizam que a capacidade de um estudante de escrever e modificar programas fornece um meio poderoso no qual a exploração se torna uma atividade natural.
+
+Também concordamos veementemente com Alan Perlis que programar é muito divertido e é melhor termos cuidado para apoiar a alegria da programação. Parte dessa alegria deriva de observar grandes mestres em ação. Tivemos a sorte de ter sido aprendizes de programador aos pés de Bill Gosper e Richard Greenblatt.
+
+É difícil identificar todas as pessoas que contribuíram para o desenvolvimento de nosso currículo. Agradecemos a todos os professores, instrutores de recitação e tutores que trabalharam conosco nos últimos quinze anos e dedicaram muitas horas extras à nossa disciplina, especialmente Bill Siebert, Albert Meyer, Joe Stoy, Randy Davis, Louis Braida, Eric Grimson, Rod Brooks, Lynn Stein e Peter Szolovits. Gostaríamos de reconhecer especialmente as notáveis contribuições de ensino de Franklyn Turbak, agora em Wellesley; seu trabalho na instrução de graduação estabeleceu um padrão ao qual todos podemos aspirar. Agradecemos a Jerry Saltzer e Jim Miller por nos ajudarem a lidar com os mistérios da concorrência, e a Peter Szolovits e David McAllester por suas contribuições à exposição da avaliação não determinística no Capítulo 4.
+
+Muitas pessoas dedicaram um esforço significativo para apresentar este material em outras universidades. Algumas das pessoas com quem trabalhamos de perto são Jacob Katzenelson no Technion, Hardy Mayer na Universidade da Califórnia em Irvine, Joe Stoy em Oxford, Elisha Sacks em Purdue, e Jan Komorowski na Universidade Norueguesa de Ciência e Tecnologia. Estamos excepcionalmente orgulhosos de nossos colegas que receberam grandes prêmios de ensino por suas adaptações desta disciplina em outras universidades, incluindo Kenneth Yip em Yale, Brian Harvey na Universidade da Califórnia em Berkeley, e Dan Huttenlocher em Cornell.
+
+Al Moyé providenciou para que ensinássemos este material a engenheiros da Hewlett-Packard e para a produção de vídeos dessas palestras. Gostaríamos de agradecer aos talentosos instrutores — em particular Jim Miller, Bill Siebert e Mike Eisenberg — que projetaram cursos de educação continuada incorporando essas fitas e os ensinaram em universidades e indústrias em todo o mundo.
+
+Muitos educadores em outros países dedicaram um trabalho significativo na tradução da primeira edição. Michel Briand, Pierre Chamard e André Pic produziram uma edição francesa; Susanne Daniels-Herold produziu uma edição alemã; e Fumio Motoyoshi produziu uma edição japonesa. Não sabemos quem produziu a edição chinesa, mas a consideramos uma honra ter sido selecionados como tema de uma tradução "não autorizada".
+
+É difícil enumerar todas as pessoas que fizeram contribuições técnicas para o desenvolvimento dos sistemas Scheme que usamos para fins instrucionais. Além de Guy Steele, os principais "magos" incluíram Chris Hanson, Joe Bowbeer, Jim Miller, Guillermo Rozas e Stephen Adams. Outros que dedicaram tempo significativo são Richard Stallman, Alan Bawden, Kent Pitman, Jon Taft, Neil Mayle, John Lamping, Gwyn Osnos, Tracy Larrabee, George Carrette, Soma Chaudhuri, Bill Chiarchiaro, Steven Kirsch, Leigh Klotz, Wayne Noss, Todd Cass, Patrick O'Donnell, Kevin Theobald, Daniel Weise, Kenneth Sinclair, Anthony Courtemanche, Henry M. Wu, Andrew Berlin e Ruth Shyu.
+
+Além da implementação do MIT, gostaríamos de agradecer às muitas pessoas que trabalharam no padrão IEEE Scheme, incluindo William Clinger e Jonathan Rees, que editaram o R4 RS, e Chris Haynes, David Bartley, Chris Hanson e Jim Miller, que prepararam o padrão IEEE.
+
+Dan Friedman tem sido um líder de longa data da comunidade Scheme. O trabalho mais amplo da comunidade vai além das questões de projeto de linguagem para englobar inovações educacionais significativas, como o currículo do ensino médio baseado no EdScheme da Schemer’s Inc., e os maravilhosos livros de Mike Eisenberg e de Brian Harvey e Matthew Wright.
+
+Agradecemos o trabalho daqueles que contribuíram para tornar este um livro de verdade, especialmente Terry Ehling, Larry Cohen e Paul Bethge da MIT Press. Ella Mazel encontrou a maravilhosa imagem da capa. Para a segunda edição, somos particularmente gratos a Bernard e Ella Mazel pela ajuda com o projeto do livro, e a David Jones, mago do TEX extraordinário. Também somos gratos àqueles leitores que fizeram comentários perspicazes sobre o novo rascunho: Jacob Katzenelson, Hardy Mayer, Jim Miller, e especialmente Brian Harvey, que fez a este livro o que Julie fez ao seu livro Simply Scheme.
+
+Finalmente, gostaríamos de reconhecer o apoio das organizações que incentivaram este trabalho ao longo dos anos, incluindo o apoio da Hewlett-Packard, tornado possível por Ira Goldstein e Joel Birnbaum, e o apoio da DARPA, tornado possível por Bob Kahn

@@ -1,6 +1,6 @@
 # Prefácio
 
-Educadores, generais, dietistas, psicólogos e pais programam. Exércitos, estudantes e algumas sociedades são programados. Um ataque a grandes problemas emprega uma sucessão de programas, a maioria dos quais surge durante o percurso. Esses programas estão repletos de questões que parecem particulares ao problema em questão.
+Educadores, generais, dentistas, psicólogos e pais programam. Exércitos, estudantes e algumas sociedades são programados. Um ataque a grandes problemas emprega uma sucessão de programas, a maioria dos quais surge durante o percurso. Esses programas estão repletos de questões que parecem particulares ao problema em questão.
 
 Para apreciar a programação como uma atividade intelectual por direito próprio, você deve se voltar para a programação de computadores; você deve ler e escrever programas de computador — muitos deles. Não importa muito sobre o que são os programas ou a quais aplicações eles servem. O que importa é o quão bem eles funcionam e quão suavemente se encaixam com outros programas na criação de programas ainda maiores. O programador deve buscar tanto a perfeição da parte quanto a adequação do conjunto.
 

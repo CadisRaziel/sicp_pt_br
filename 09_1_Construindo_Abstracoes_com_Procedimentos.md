@@ -1,4 +1,4 @@
-# Construindo Abstrações com Procedimentos
+# 1 Construindo Abstrações com Procedimentos
  
 Os atos da mente, nos quais ela exerce seu poder sobre ideias simples, são principalmente estes três: 1. Combinar várias ideias simples em uma complexa, e assim todas as ideias complexas são feitas. 2. O segundo é trazer duas ideias, sejam elas simples ou complexas, e colocá-las lado a lado para que se possa ter uma visão delas de uma só vez, sem uni-las em uma, pelo que se obtém todas as suas ideias de relações. 3. O terceiro é separá-las de todas as outras ideias que as acompanham em sua existência real: isto é chamado de abstração, e assim todas as suas ideias gerais são feitas.
 
@@ -16,7 +16,7 @@ Felizmente, aprender a programar é consideravelmente menos perigoso do que apre
 
 Engenheiros de software mestres têm a capacidade de organizar programas para que possam ter uma certeza razoável de que os processos resultantes realizarão as tarefas pretendidas. Eles podem visualizar o comportamento de seus sistemas antecipadamente. Eles sabem como estruturar programas para que problemas inesperados não levem a consequências catastróficas e, quando surgem problemas, eles podem depurar seus programas. Sistemas computacionais bem projetados, como automóveis ou reatores nucleares bem projetados, são concebidos de forma modular, para que as partes possam ser construídas, substituídas e depuradas separadamente.
 
-Programando em Lisp
+## Programando em Lisp
 Precisamos de uma linguagem apropriada para descrever processos, e usaremos para esse propósito a linguagem de programação Lisp. Assim como nossos pensamentos cotidianos são geralmente expressos em nossa linguagem natural (como inglês, francês ou japonês), e as descrições de fenômenos quantitativos são expressas com notações matemáticas, nossos pensamentos procedurais serão expressos em Lisp.
 
 Lisp foi inventada no final dos anos 1950 como um formalismo para raciocinar sobre o uso de certos tipos de expressões lógicas, chamadas equações de recursão, como modelo para a computação. A linguagem foi concebida por John McCarthy e é baseada em seu artigo "Recursive Functions of Symbolic Expressions and Their Computation by Machine" (McCarthy 1960).

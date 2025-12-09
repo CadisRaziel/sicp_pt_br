@@ -1,0 +1,4 @@
+Para utilizar os exemplos do livro utilize o 'Lisp Scheme' voce encontra nesse site -> https://www.racket-lang.org/
+
+O common lisp(slime) vocé ja tera dificuldades ja que la não se pode utilziar 'define' e nem mesmo construir a expressão em apenas uma linha.
+La é utilizado defvar e defparam e precisa respeitar algumas regras..

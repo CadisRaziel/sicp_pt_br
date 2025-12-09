@@ -29,10 +29,9 @@ Temos aqui um procedimento composto, que recebeu o nome square (quadrado). O pro
 
 A forma geral de uma definição de procedimento é:
 
-(define (<nome> <parâmetros formais>)
-  <corpo>)
+(define (nome parâmetros formais)  corpo)
 
-O <nome> é um símbolo a ser associado à definição do procedimento no ambiente. Os <parâmetros formais> são os nomes usados dentro do corpo do procedimento para se referir aos argumentos correspondentes do procedimento. O <corpo> é uma expressão que fornecerá o valor do procedimento quando ele for aplicado.
+O nome é um símbolo a ser associado à definição do procedimento no ambiente. Os parâmetros formais são os nomes usados dentro do corpo do procedimento para se referir aos argumentos correspondentes do procedimento. O corpo é uma expressão que fornecerá o valor do procedimento quando ele for aplicado.
 
 12. Criação vs. Nomenclatura de Procedimentos. Observe que há duas operações diferentes sendo combinadas aqui: estamos criando o procedimento e estamos dando a ele o nome square. É possível, e de fato importante, ser capaz de separar estas duas noções: criar procedimentos sem nomeá-los e dar nomes a procedimentos que já foram criados. Veremos como fazer isso na Seção 1.3.2.
 13. Notação Sintática Geral. Ao longo deste livro, descreveremos a sintaxe geral das expressões usando símbolos em itálico delimitados por colchetes angulares — por exemplo, $\langle \text{nome} \rangle$ — para denotar os "espaços" na expressão a serem preenchidos quando tal expressão for realmente utilizada.
